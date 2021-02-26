@@ -3,6 +3,7 @@ set mouse=a
 set background=dark
 set cursorline
 
+set clipboard=unnamedplus
 syntax enable
 set smartindent
 set tabstop=4
