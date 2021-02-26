@@ -55,7 +55,7 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'Yggdroot/indentLine'
 Plugin 'preservim/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
-Plugin 'Valloric/YouCompleteMe'
+
 
 
 nnoremap <silent> <F2> :NERDTree<CR>
