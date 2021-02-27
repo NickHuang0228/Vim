@@ -16,6 +16,14 @@ vnoremap <space> zf
 ".swap"
 :set noswapfile
 
+"縮進指示線"
+let g:indentLine_char='┆' 
+let g:indentLine_enabled = 1 
+"autopep8設置"
+let g:autopep8_disable_show_diff=1
+
+
+
 "Status Bar"
 "set ls=2
 "set statusline=%<%f\ %m%=\ %h%r\ %-19([%p%%]\ %3l,%02c%03V%)%y
@@ -54,6 +62,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'Yggdroot/indentLine'
 Plugin 'preservim/nerdtree'
+Plugin 'tell-k/vim-autopep8'
 Plugin 'scrooloose/nerdcommenter'
 
 
