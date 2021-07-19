@@ -3,7 +3,6 @@ set mouse=a
 set background=dark
 set cursorline
 
-set clipboard=unnamedplus
 syntax enable
 set smartindent
 set tabstop=4
@@ -56,10 +55,11 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'Yggdroot/indentLine'
 Plugin 'preservim/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'majutsushi/tagbar'
 
 
 nnoremap <silent> <F2> :NERDTree<CR>
-
+nnoremap <silent> <F8> :Tagbar<CR>
 
 call vundle#end()            " required
 filetype plugin indent on    " required

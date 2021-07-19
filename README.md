@@ -11,6 +11,8 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 輸入 ： let g:AutoPairsMapBS = 0
 
 
+<F2> 是NerdTree 快捷鍵 Ctrl+ w + [hjkl 左上下右] or Ctrl + w + w 照順序切換
+<F8> 是TagBar   快捷鍵 同上
 
 
 
