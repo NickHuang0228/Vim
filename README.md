@@ -1,4 +1,4 @@
-# Vim# This is belong to nickhuang vimrc setting modify at 2021/03/05 #
+# Vim# This is belong to nickhuang vimrc setting modify at 2021/07/19 #
 
 Install Vundle: 
 
