@@ -33,8 +33,8 @@ highlight User5 ctermfg=cyan
 highlight User6 ctermfg=white
 
 " Run Python Compiler "
-autocmd FileType python map <buffer> <F5> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
-autocmd FileType python imap <buffer> <F5> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+autocmd FileType python map <buffer> <F5> :w<CR>:exec '!python' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <F5> <esc>:w<CR>:exec '!python' shellescape(@%, 1)<CR>
 
 
 
@@ -43,7 +43,11 @@ filetype off                  " required
 
 set syntax=enable
 
+let g:rainbow#max_level = 16
+let g:rainbow#pairs = [['(', ')'], ['[', ']']]
 
+" List of colors that you do not want. ANSI code or #RRGGBB
+let g:rainbow#blacklist = [233, 234]
 
 " for Install PlugIn "
 " set the runtime path to include Vundle and initialize
@@ -56,6 +60,10 @@ Plugin 'Yggdroot/indentLine'
 Plugin 'preservim/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'majutsushi/tagbar'
+Plugin 'thiagoalessio/rainbow_levels.vim'
+
+
+nnoremap <silent> <F3> :RainbowLevelsToggle<CR>
 
 
 nnoremap <silent> <F2> :NERDTree<CR>
