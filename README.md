@@ -16,6 +16,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 'Following the Below ' (for Windows)
 
 'Windows 特別git bash [ctags] 無法使用 可以把ctags.exe 放在git_bash 資料夾內'
+
 ex : C:\\Program Files\\Git\\usr\\bin\\ctags.exe
 ---------------------------------------------------------------------------------------------------
 ### 快捷鍵使用方法 ###
