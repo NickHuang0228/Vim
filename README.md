@@ -18,6 +18,12 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 'Windows 特別git bash [ctags] 無法使用 可以把ctags.exe 放在git_bash 資料夾內'
 
 ex : C:\\Program Files\\Git\\usr\\bin\\ctags.exe
+
+
+'Add tmux'
+安裝msys2.exe 
+In a msys2 window, use Pacman to install tmux (pacman -S tmux).
+Copy tmux and msys-event binaries from msys2 bin folder (probably C:\msys64\usr\bin) to git bash bin folder (probably C:\Program Files\Git\usr\bin).
 ---------------------------------------------------------------------------------------------------
 ### 快捷鍵使用方法 ###
 
@@ -27,3 +33,6 @@ ex : C:\\Program Files\\Git\\usr\\bin\\ctags.exe
 
 
 # vimrc setting (vim_gtk)
+
+
+
