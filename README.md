@@ -24,6 +24,11 @@ ex : C:\\Program Files\\Git\\usr\\bin\\ctags.exe
 安裝msys2.exe 
 In a msys2 window, use Pacman to install tmux (pacman -S tmux).
 Copy tmux and msys-event binaries from msys2 bin folder (probably C:\msys64\usr\bin) to git bash bin folder (probably C:\Program Files\Git\usr\bin).
+
+
+'Python Bug'
+設定Git bash開啟python 默認 : python -i 
+可以到 ~/.bashrc 裡面 設定 alias python = 'python -i' 就可以用python 了
 ---------------------------------------------------------------------------------------------------
 ### 快捷鍵使用方法 ###
 
