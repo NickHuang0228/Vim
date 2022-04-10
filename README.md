@@ -29,6 +29,9 @@ Copy tmux and msys-event binaries from msys2 bin folder (probably C:\msys64\usr\
 'Python Bug'
 設定Git bash開啟python 默認 : python -i 
 可以到 ~/.bashrc 裡面 設定 alias python = 'python -i' 就可以用python 了
+
+'Install C++ Setting'
+安裝mingw 後 Path 記得加 : $ export PATH=/c/MinGW/bin:$PATH
 ---------------------------------------------------------------------------------------------------
 ### 快捷鍵使用方法 ###
 
