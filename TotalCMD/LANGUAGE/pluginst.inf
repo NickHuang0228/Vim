@@ -1,0 +1,5 @@
+[plugininstall]
+description=Traditional Chinese (Taiwan ¡c≈È§§§Â) language files for Total Commander 11.x
+type=lng
+file=wcmd_tw.lng
+defaultdir=language

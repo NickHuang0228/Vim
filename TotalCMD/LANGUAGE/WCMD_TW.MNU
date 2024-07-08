@@ -1,0 +1,142 @@
+POPUP "檔案(&F)"
+  MENUITEM "變更屬性(&C)...", cm_SetAttrib
+  MENUITEM "壓縮檔案(&P)...\tAlt+F5", cm_PackFiles
+  MENUITEM "解壓縮檔案(&U)...\tAlt+F9", cm_UnpackFiles
+  MENUITEM "測試壓縮檔(&I)\tAlt+Shift+F9",518
+  MENUITEM "比對檔案內容(&Y)...", 2022
+  MENUITEM "檔案關聯(&A)...", cm_associate
+  MENUITEM "內部關聯(&L) (僅用於 Total Commander)...", 519
+  MENUITEM "內容資訊(&.)...\tAlt+Enter", cm_versioninfo
+  MENUITEM "計算佔用空間(&O)...\tCtrl+L", cm_GetFileSpace
+  MENUITEM "多檔重新命名(&R)...\tCtrl+M", 2400
+  MENUITEM "編輯檔案註解(&N)...\tCtrl+Z", 2700
+  POPUP "列印(&T)"
+    MENUITEM "檔案清單(&L)...", 2027
+    MENUITEM "檔案清單(含子資料夾)(&S)...", 2028
+    MENUITEM "檔案內容(&T)\tCtrl+F9", cm_PrintFile
+  END_POPUP
+  MENUITEM SEPARATOR
+  MENUITEM "分割檔案(&S)...", 560
+  MENUITEM "合併檔案(&M)...", 561
+  MENUITEM "檔案編碼(&E) (MIME,UUE,XXE)...", 562
+  MENUITEM "檔案解碼(&D) (MIME,UUE,XXE,BinHex)...", 563
+  MENUITEM "建立校驗檔(&H) (CRC32, MD5, SHA1)...", 564
+  MENUITEM "從檔案驗證校驗碼(&V)", 565
+  MENUITEM SEPARATOR
+  MENUITEM "結束(&Q)\tAlt+F4", 24340
+END_POPUP
+
+POPUP "標記(&M)"
+  MENUITEM "選取群組(&G)...\tNum +", cm_spreadselection
+  MENUITEM "取消選取群組(&U)...\tNum -", cm_shrinkselection
+  MENUITEM "全選(&A)\tCtrl Num +", cm_selectall
+  MENUITEM "取消全選(&N)\tCtrl Num -", cm_Clearall
+  MENUITEM "反向選取(&I)\tNum *", cm_ExchangeSelection
+  MENUITEM "全選副檔名相同的項目(&X)\tAlt Num +",527
+  MENUITEM SEPARATOR
+  MENUITEM "儲存選取項目(&S)", 530
+  MENUITEM "還原選取項目(&R)\tNum /", 529
+  MENUITEM "儲存選取項目到檔案(&V)", 2031
+  MENUITEM "從檔案載入選取項目(&L)", 2032
+  MENUITEM SEPARATOR
+  MENUITEM "複製 名稱 到剪貼簿(&Y)", 2017
+  MENUITEM "複製 名稱及路徑 到剪貼簿(&P)", 2018
+  MENUITEM "複製 所有顯示的欄位 到剪貼簿(&D)", 2036
+  MENUITEM "複製 所有顯示的欄位及路徑 到剪貼簿(&B)", 2037
+  MENUITEM SEPARATOR
+  MENUITEM "比對資料夾(&C)\tShift+F2", cm_CompareDirs
+  MENUITEM "標記新檔案，隱藏相同的檔案(&M)", cm_DirMatch
+END_POPUP
+
+POPUP "命令(&C)"
+  MENUITEM "切換資料夾(&T)...\tAlt+F10", cm_CDtree
+  MENUITEM "搜尋(&S)...\tAlt+F7", cm_searchfor
+  MENUITEM "在個別處理程序中搜尋(&P)...\tAlt+Shift+F7", 545
+  MENUITEM "磁碟標籤(&V)...", cm_VolumeId
+  MENUITEM "系統資訊(&I)...", cm_sysinfo
+  MENUITEM "同步資料夾(&Y)...", 2020
+  MENUITEM "資料夾選單(&H)\tCtrl+D", 526
+  MENUITEM "上一頁(&B)\tAlt+向左鍵", 570
+  MENUITEM SEPARATOR
+  MENUITEM "開啟命令提示字元(&D) (DOS 視窗)", cm_ExecuteDOS
+  MENUITEM SEPARATOR
+  MENUITEM "展開所有資料夾(&A)\tCtrl+B", 2026
+  MENUITEM "開啟桌面資料夾(&O)", 2121
+  MENUITEM "背景傳輸管理員(&M)...",559
+  MENUITEM SEPARATOR
+  MENUITEM "左右視窗交換，來源<->目標(&<)\tCtrl+U", cm_exchange
+  MENUITEM "目標視窗 = 來源視窗(&=)", cm_matchsrc
+END_POPUP
+
+POPUP "網路(&N)"
+  MENUITEM "連線網路磁碟機(&N)...", cm_NetConnect
+  MENUITEM "中斷網路磁碟機(&D)...", cm_NetDisconnect
+  MENUITEM "共用目前的資料夾(&C)...", cm_NetShareDir
+  MENUITEM "取消資料夾共用(&U)...", cm_NetUnshareDir
+  MENUITEM "顯示系統共用資料夾(&A)", 2204
+  MENUITEM SEPARATOR
+  MENUITEM "FTP 連線(&F)...\tCtrl+F", 550
+  MENUITEM "FTP 新增連線(&P)...\tCtrl+N", 551
+  MENUITEM "FTP 中斷連線(&E)\tCtrl+Shift+F", 552
+  MENUITEM "FTP 顯示隱藏的檔案(&W)", 553
+  MENUITEM "FTP 依照下載清單下載(&L)...", 558
+  MENUITEM "使用纜線連線到其他電腦(&O)...", 2300
+END_POPUP
+
+POPUP "顯示(&W)"
+  MENUITEM "清單(&B)\tCtrl+F1", cm_srcshort
+  MENUITEM "詳細資料(&F)\tCtrl+F2", cm_srclong
+  MENUITEM "檔案註解(&M)\tCtrl+Shift+F2", 300
+  MENUITEM "自訂欄位(&D)\tShift+F1", 270
+  MENUITEM "自訂檢視模式", 333
+  MENUITEM "樹狀目錄(&T)\tCtrl+F8", cm_srcTree
+  POPUP "樹狀面板\tCtrl+Shift+F8"
+    MENUITEM "&0 (關閉)", 3200
+    MENUITEM "&1 (一個面板，左右視窗共用一個)", 3201
+    MENUITEM "&2 (兩個面板，左右視窗各有一個)", 3202
+  END_POPUP
+  MENUITEM "縮圖檢視(&L)\tCtrl+Shift+F1", 269
+  MENUITEM "快速檢視(&Q)\tCtrl+Q",304
+  MENUITEM "水平並排顯示(&V)", 305
+  MENUITEM "新增資料夾標籤(&W)\tCtrl+T", 3001
+  MENUITEM SEPARATOR
+  MENUITEM "所有檔案(&A)\tCtrl+F10", cm_srcallfiles
+  MENUITEM "程式檔案(&P)\tCtrl+F11", cm_srcexecs
+  MENUITEM "*.*", cm_srcuserspec
+  MENUITEM "自訂檔案類型(&C)...\tCtrl+F12", cm_srcuserdef
+  MENUITEM "只有選取的檔案(&O)", 2023
+  MENUITEM SEPARATOR
+  MENUITEM "依檔名排序(&N)\tCtrl+F3", cm_srcbyname
+  MENUITEM "依副檔名排序(&X)\tCtrl+F4", cm_srcbyext
+  MENUITEM "依時間排序(&I)\tCtrl+F5", cm_srcbydatetime
+  MENUITEM "依大小排序(&S)\tCtrl+F6", cm_srcbysize
+  MENUITEM "不排序(&U)\tCtrl+F7", cm_srcunsorted
+  MENUITEM SEPARATOR
+  MENUITEM "反向排序(&R)", cm_srcnegorder
+  MENUITEM SEPARATOR
+  MENUITEM "重新整理(&E)\tCtrl+R", cm_rereadsource
+END_POPUP
+
+POPUP "設定(&O)"
+  MENUITEM "選項(&O)...", cm_config
+  MENUITEM "工具列(&U)...", cm_ButtonConfig
+  MENUITEM "垂直工具列(&2)...", 583
+  MENUITEM "直接修改設定檔(&C)...", 581
+  MENUITEM "深色<->正常(&D)", 2950
+  MENUITEM "儲存視窗位置(&S)", cm_configSavepos
+  MENUITEM "儲存設定(&V)", 580
+END_POPUP
+
+STARTMENU
+
+HELP_BREAK
+
+POPUP "說明(&H)"
+  MENUITEM "說明索引(&I)\tF1", cm_HelpIndex
+  MENUITEM "鍵盤快速鍵(&K)", cm_keyboard
+  MENUITEM "註冊資訊(&R)", cm_register
+  MENUITEM "Total Commander 網站(&V)", 640
+  MENUITEM "立即檢查更新(&C)", 650
+  MENUITEM SEPARATOR
+  MENUITEM "關於 Total Commander(&A)...", cm_About
+END_POPUP
