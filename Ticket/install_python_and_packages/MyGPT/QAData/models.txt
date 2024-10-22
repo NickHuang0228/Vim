@@ -1,0 +1,8 @@
+0: meta-llama/Meta-Llama-3.1-70B-Instruct
+1: CohereForAI/c4ai-command-r-plus-08-2024
+2: Qwen/Qwen2.5-72B-Instruct
+3: NousResearch/Hermes-3-Llama-3.1-8B
+4: mistralai/Mistral-Nemo-Instruct-2407
+5: microsoft/Phi-3.5-mini-instruct
+
+当前使用的模型: CohereForAI/c4ai-command-r-plus-08-2024
