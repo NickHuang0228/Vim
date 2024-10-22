@@ -110,3 +110,206 @@
 2024/07/08 22:58:13: 程式結束 (Titan GT77/NICKHUANG)
 2024/07/08 22:58:23: 程式啟動 (Titan GT77/NICKHUANG) UTF-8
 2024/07/08 22:58:32: 程式結束 (Titan GT77/NICKHUANG)
+2024/07/09 09:16:23: 新增資料夾: C:\Users\1131880\Vim\TotalCMD\Cache
+2024/07/09 09:16:23: 新增檔案(錯誤: 失敗): Button bar: Different checksums: 781529489->1764701617
+2024/07/09 09:16:23: 新增檔案(錯誤: 失敗): Button bar (create2): Different button count loaded: 0<->31
+2024/07/09 09:16:23: 新增檔案(錯誤: 失敗): Button bar: Different checksums: -1614136122->381238502
+2024/07/09 09:16:23: 新增檔案(錯誤: 失敗): Button bar (create2): Different button count loaded: 0<->16
+2024/07/09 09:16:24: 新增資料夾: C:\Users\1131880\AppData\Local\GHISLER
+2024/07/09 09:16:24: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:18:03: 程式結束 (1131880/IE3434)
+2024/07/09 09:22:18: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:22:52: 程式結束 (1131880/IE3434)
+2024/07/09 09:25:20: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:25:21: 程式結束 (1131880/IE3434)
+2024/07/09 09:25:41: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:25:41: 程式結束 (1131880/IE3434)
+2024/07/09 09:29:20: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:30:50: 程式結束 (1131880/IE3434)
+2024/07/09 09:30:58: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/09 09:32:16: 程式結束 (1131880/IE3434)
+2024/07/10 11:54:16: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/10 11:54:51: 新增資料夾: D:\協助驗證Code
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi-v7a
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi-v7a\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi-v7a\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips64
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips64\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips64\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86_64
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86_64\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86_64\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\CDC\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Device\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\LineTest
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\LineTest\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\LineTest\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Linux
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Linux\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Linux\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Linux\daemon
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Linux\daemon\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Linux\daemon\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Log
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Log\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Log\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Profile
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Profile\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Profile\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Record_File
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Record_File\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Record_File\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILIAPI
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ILIAPI\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILIAPI\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\Backup
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\Backup\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\Backup\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\Config
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\Config\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\Config\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\TDDI_Bridge_UpgradeTool
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\TDDI_Bridge_UpgradeTool\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\TDDI_Bridge_UpgradeTool\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x64
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\x64\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x64\
+2024/07/10 11:56:00: 新增資料夾: D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x86
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\x86\ -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x86\
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\ilitek_arm -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\arm64-v8a\ilitek_arm
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi-v7a\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\armeabi-v7a\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips64\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\mips64\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86_64\ilitek -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\Libs\daemon\x86_64\ilitek
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_4.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_4.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_5.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_5.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_6.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_5_6.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_6_0.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\CDC\CDC_Protocol_6_0.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\BridgeVersion.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\BridgeVersion.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\CDCTool.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\CDCTool.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\ComportSettings.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\ComportSettings.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\DDITool.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\DDITool.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\FWUpgrade.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\FWUpgrade.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\History.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\History.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\IliTek.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\IliTek.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\PaintTool.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\PaintTool.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\ReadFlashControl.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\ReadFlashControl.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\SensorTest.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\SensorTest.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\Setting.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\Setting.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\TunningTool.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\TunningTool.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Config\WiFi.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Config\WiFi.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\CustomerID.bin -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\CustomerID.bin
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\DD005_INX_V0x0006.0x46_AP_V0x0006.0x42_MP-20180920.hex -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\DD005_INX_V0x0006.0x46_AP_V0x0006.0x42_MP-20180920.hex
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\Firmware.hex -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Device\ILI9881H\Firmware.hex
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Linux\daemon\ilitek_arm -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Linux\daemon\ilitek_arm
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Profile\Default.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Profile\Default.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Profile\NodeType.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Profile\NodeType.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Profile\OpenCommand.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Profile\OpenCommand.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Setting.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Setting.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\IliFile_格式.xlsx -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\IliFile_格式.xlsx
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\IliFile_Α.xlsx -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\IliFile_Α.xlsx
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\ilitek_ic_info.ini -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\ilitek_ic_info.ini
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\IliSQL_C.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\IliSQL_C.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\Config\UISet.xml -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\Config\UISet.xml
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\IL6600A_6.0.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\IL6600A_6.0.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.1.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.1.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.2.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807G_1.4.2.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807S_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807S_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807V_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI7807V_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.1.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.1.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.2.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881H_1.4.2.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881T_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881T_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881X_1.4.1.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881X_1.4.1.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881X_1.4.2.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9881X_1.4.2.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882N_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882N_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882Q_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882Q_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882T_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9882T_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9883A_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9883A_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\ILI9883C_1.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\ILI9883C_1.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.4.5.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.4.5.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.4.6.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.4.6.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.5.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.5.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.6.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.6.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.7.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_1.7.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_2.0.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_2.0.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_2.1.0.0.tpl -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPL\TPL_Standard_2.1.0.0.tpl
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\adb.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\adb.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\AdbWinApi.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\AdbWinApi.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\AdbWinUsbApi.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\AdbWinUsbApi.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ADB\kadb.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ADB\kadb.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\AutoUpdateIni.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\AutoUpdateIni.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\DiffieHellman.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\DiffieHellman.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\FlashList.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\FlashList.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ILI7807F.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ILI7807F.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\ILI9881F.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\ILI9881F.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\LineTest\LineTuning.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\LineTest\LineTuning.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Org.Mentalis.Security.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Org.Mentalis.Security.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\OTASetting.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\OTASetting.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\OTAUpgrade.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\OTAUpgrade.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\packet_parser_oled.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\packet_parser_oled.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\PluginInterface.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\PluginInterface.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Renci.SshNet.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Renci.SshNet.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\System.Data.SQLite.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\System.Data.SQLite.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tamir.SharpSSH.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tamir.SharpSSH.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TeeChart.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TeeChart.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\ILITek_HexToILI.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\HexToILI\ILITek_HexToILI.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\IliSQL_C.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\ILISQL\IliSQL_C.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\OSD_Verify.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\Tool\OSDGen\OSD_Verify.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TP Test Studio.exe -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TP Test Studio.exe
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\TPToolInterfaces.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\TPToolInterfaces.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\x64\SQLite.Interop.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x64\SQLite.Interop.dll
+2024/07/10 11:56:00: 解壓縮檔案: D:\協助驗證Code\TP Test Studio V.2.00.9.21_Simple.7z/TP Test Studio V.2.00.9.21_Simple\x86\SQLite.Interop.dll -> D:\TP Test Studio V.2.00.9.21_Simple\TP Test Studio V.2.00.9.21_Simple\x86\SQLite.Interop.dll
+2024/07/10 13:19:04: 新增資料夾: T:
+2024/07/10 13:19:28: 刪除檔案: D:\協助驗證Code\新增資料夾
+2024/07/10 13:19:28: 刪除資料夾: D:\協助驗證Code\新增資料夾
+2024/07/10 14:58:00: 新增資料夾: E:
+2024/07/11 12:26:14: 程式結束 (1131880/IE3434)
+2024/07/11 16:48:34: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/11 16:48:47: 程式結束 (1131880/IE3434)
+2024/07/11 16:48:51: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/11 16:49:11: 程式結束 (1131880/IE3434)
+2024/07/11 16:50:07: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/12 13:22:01: 程式結束 (1131880/IE3434)
+2024/07/15 10:26:49: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/15 10:27:00: 程式結束 (1131880/IE3434)
+2024/07/15 14:02:32: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/15 14:02:35: 程式結束 (1131880/IE3434)
+2024/07/16 15:44:57: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/16 15:45:00: 程式結束 (1131880/IE3434)
+2024/07/17 17:29:46: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/19 13:19:28: 新增檔案(錯誤: 失敗): Button bar (ScaleDpi): Different button count loaded: 0<->31
+2024/07/19 13:19:28: 新增檔案(錯誤: 失敗): Button bar (ScaleDpi): Different button count loaded: 0<->16
+2024/07/19 13:43:03: 新增資料夾: E:
+2024/07/19 13:51:55: 程式結束 (1131880/IE3434)
+2024/07/23 16:03:39: 程式啟動 (1131880/IE3434) UTF-8
+2024/07/23 16:03:43: 程式結束 (1131880/IE3434)
+2024/08/06 20:24:16: 程式啟動 (1131880/IE3434) UTF-8
+2024/08/06 20:24:17: 程式結束 (1131880/IE3434)
+2024/08/06 20:29:14: 程式啟動 (1131880/IE3434) UTF-8
+2024/08/06 20:29:17: 程式結束 (1131880/IE3434)
+2024/08/07 14:13:35: 程式啟動 (1131880/IE3434) UTF-8
+2024/08/07 14:13:45: 程式結束 (1131880/IE3434)
